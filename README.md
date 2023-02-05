@@ -3,7 +3,7 @@
 
 ## Примеры моих работ:
 
-**1. Игра [Find couple](https://hexlet.io](https://github.com/BuAleksey/Find-couple.git) **
+1. Игра [Find couple](https://hexlet.io](https://github.com/BuAleksey/Find-couple.git)
 
 Приложение написано с испольхованием архитектуры MVC.
 
