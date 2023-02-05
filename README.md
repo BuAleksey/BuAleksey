@@ -4,5 +4,5 @@
 ## Примеры моих работ:
 
 1. Игра [Find couple](https://github.com/BuAleksey/Find-couple.git).
-Приложение написано с испольхованием архитектуры MVC.
-![FindCouple](https://user-images.githubusercontent.com/97629184/216840451-44d06a1d-4d32-47f3-b5e3-19e30420ea08.gif)
+Приложение написано с испольхованием архитектуры MVC.  
+![FindCouple](https://user-images.githubusercontent.com/97629184/216840502-5cc4c43b-3716-4e2c-9fde-529a63930ad1.gif)
