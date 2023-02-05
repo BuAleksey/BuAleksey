@@ -3,8 +3,7 @@
 
 ## Примеры моих работ:
 
-1. Игра [Find couple](https://github.com/BuAleksey/Find-couple.git)
+1. Игра [Find couple](https://github.com/BuAleksey/Find-couple.git). 
+Приложение написано с испольхованием архитектуры MVC.  
+![FindCouple](https://user-images.githubusercontent.com/97629184/216840337-4fc3b9e1-e812-4cec-94bc-4692021e107f.gif)
 
-Приложение написано с испольхованием архитектуры MVC.
-
-![FindCouple](https://user-images.githubusercontent.com/97629184/216840237-beed9081-6812-4457-9a3a-784f0c6d0f9d.gif)
