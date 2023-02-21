@@ -11,6 +11,6 @@
 
 2. Игра [Crocodile](https://github.com/BuAleksey/Crocodile.git).
 SwiftUI.
-Приложение поомгоет играть в "крокодила" когда вас только двое.
+Приложение помогоет играть в "крокодила" когда вас только двое.
 
-![Crocodile](https://user-images.githubusercontent.com/97629184/220196132-c7617a7c-df75-4938-bca6-48c9383a3f0f.gif)
+![Crocodile](https://user-images.githubusercontent.com/97629184/220439356-a3bbda0c-295e-49c9-9f15-b4d8cd4e2a14.gif)
