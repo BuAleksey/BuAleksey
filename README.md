@@ -4,13 +4,30 @@
 ## Примеры моих работ:
 
 1. Игра [Find couple](https://github.com/BuAleksey/Find-couple.git).
-Приложение написано с испольpованием архитектуры MVC.
 
-![1](https://user-images.githubusercontent.com/97629184/220197281-f09e1ae2-2a0f-4777-9d0f-0eb5c71af8ef.gif)
+UIkit, MVC.
+
+https://user-images.githubusercontent.com/97629184/221351505-3735f266-ee0f-48c3-9034-c31836b50e37.mp4
+
 
 
 2. Игра [Crocodile](https://github.com/BuAleksey/Crocodile.git).
-SwiftUI.
+
+SwiftUI, MVC.
+
 Приложение помогоет играть в "крокодила" когда вас только двое.
 
-![Crocodile](https://user-images.githubusercontent.com/97629184/220439356-a3bbda0c-295e-49c9-9f15-b4d8cd4e2a14.gif)
+https://user-images.githubusercontent.com/97629184/221351519-48801fc9-1d6a-4919-bdc9-282cd785fb16.mp4
+
+
+
+3. Классическое [приложение](https://github.com/BuAleksey/PhotoCollectionMVVM.git) для работы с коллекциями. 
+
+UIkit, MVVM.
+
+https://user-images.githubusercontent.com/97629184/221351359-5801cb90-0081-4adc-b73a-1c2be78c6753.mp4
+
+
+
+
+
