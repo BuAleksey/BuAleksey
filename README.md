@@ -21,11 +21,12 @@ https://user-images.githubusercontent.com/97629184/221351519-48801fc9-1d6a-4919-
 
 
 
-3. Классическое [приложение](https://github.com/BuAleksey/PhotoCollectionMVVM.git) для работы с коллекциями. 
+3. Классическое [приложение](https://github.com/BuAleksey/PhotoCollectionMVVM.git), пример работы с коллекциями. 
 
 UIkit, MVVM.
 
-https://user-images.githubusercontent.com/97629184/221351359-5801cb90-0081-4adc-b73a-1c2be78c6753.mp4
+https://user-images.githubusercontent.com/97629184/221412462-8cd4c340-cf96-4c12-8cbb-65acd41f8e23.mp4
+
 
 
 
