@@ -1,5 +1,5 @@
 # Добрый день, я Алексей
-### Дайте шанс начинающему iOS Developer <img height="15" width="15" src="https://cdn.simpleicons.org/Apple/yellow"/>
+### iOS Developer <img height="15" width="15" src="https://cdn.simpleicons.org/Apple/yellow"/>
 #### :telephone_receiver:  8(903)782-12-16
 #### :envelope:  oldf03@gmail.com
 
