@@ -19,13 +19,13 @@ UIkit, MVC.
 https://user-images.githubusercontent.com/97629184/221351505-3735f266-ee0f-48c3-9034-c31836b50e37.mp4
 
 
-### 3. Игра [Crocodile](https://github.com/BuAleksey/Crocodile.git).
+### 3. Игра [Crocodile](https://github.com/BuAleksey/CrocodileApp).
 
-SwiftUI, MVC.
+SwiftUI.
 
 Приложение помогоет играть в "крокодила" когда вас только двое.
 
-https://user-images.githubusercontent.com/97629184/221351519-48801fc9-1d6a-4919-bdc9-282cd785fb16.mp4
+https://github.com/BuAleksey/BuAleksey/assets/97629184/741040ac-1232-4d86-a0e1-cea9e97053e4
 
 
 ### 4. Классическое [приложение](https://github.com/BuAleksey/PhotoCollectionMVVM.git), пример работы с коллекциями. 
