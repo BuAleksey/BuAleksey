@@ -9,7 +9,7 @@
 
 SwiftUI.
 
-https://github.com/BuAleksey/BuAleksey/assets/97629184/7ef96a4d-8b90-4de6-bc69-252127bf7662
+https://github.com/BuAleksey/BuAleksey/assets/97629184/528be9a1-868e-4498-98c2-ca4769f4b4da
 
 
 ### 2. Игра [Find couple](https://github.com/BuAleksey/Find-couple.git).
