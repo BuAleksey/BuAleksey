@@ -11,7 +11,7 @@ SwiftUI.
 
 https://github.com/BuAleksey/BuAleksey/assets/97629184/1666d83c-7b00-41ff-8250-3405f60a6c02
 
-### 2. Приложение магазина [PlantSore](https://github.com/BuAleksey/PlantSrore).
+### 2. Приложение магазина [PlantStore](https://github.com/BuAleksey/PlantSrore).
 
 UIKit/MVVM/SnapKit
 
