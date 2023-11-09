@@ -3,7 +3,7 @@
 #### :telephone_receiver:  8(903)782-12-16
 #### :envelope:  oldf03@gmail.com
 
-## Примеры моих работ:
+### Примеры моих работ:
 
 ### 1. Банковское приложение [BankApp](https://github.com/BuAleksey/BankApp).
 
