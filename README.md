@@ -19,7 +19,7 @@ https://github.com/BuAleksey/BuAleksey/assets/97629184/cab40c39-1be6-4289-8de8-0
 
 ### 3. Игра [Find couple](https://github.com/BuAleksey/Find-couple.git).
 
-UIkit, MVC.
+UIkit/MVC/Storyboard
 
 https://user-images.githubusercontent.com/97629184/221351505-3735f266-ee0f-48c3-9034-c31836b50e37.mp4
 
